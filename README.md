@@ -30,23 +30,7 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
 </div>
 
-###
 
-<h2 align="left">Tools Used :</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
-  <img width="12" />
-
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
-</div>
-
-###
 
 <h2>Deployed URL :</h2>
 
