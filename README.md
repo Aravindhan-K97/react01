@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔸 I created a Price card in React JS. <br>🔸 Used React components And Props. <br>🔸 Imported to GitHub using Git.<br>🔸 Deployed my web application in Netlify.</p>
+<p align="left">🔸 I created a Price card in React JS. <br>🔸 Used React components And Props. <br>🔸 Imported to GitHub.<br>🔸 Deployed my web application in Netlify.</p>
 
 ###
 
